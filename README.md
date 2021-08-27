@@ -12,10 +12,10 @@ the emoji from the list. Then meaning of the emoji will shown below.
 <ul>
   <li>React js</li>
   <li>Objects in javascript</li>
-  <li>onClick()<li>
-  <li>onChange()<li>
-  <li>map()<li>
-  <li>useState<li>
+  <li>onClick()</li>
+  <li>onChange()</li>
+  <li>map()</li>
+  <li>useState</li>
 </ul>
 
 Don't forget to leave a ⭐ if you found this useful.
